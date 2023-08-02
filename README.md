@@ -30,6 +30,7 @@ POST http://localhost:8080/api/notice 공지글 등록 <br/>
 PUT  http://localhost:8080/api/notice/${id} 공지글 수정 <br/>
 DELETE http://localhost:8080/api/notice/${id} 공지글 삭제
 
+![image](https://github.com/jhogunhee/RestApi-demo/assets/31683173/bbc1a2a0-20ae-4f95-b508-62290ee2bc96)
 
 
 
